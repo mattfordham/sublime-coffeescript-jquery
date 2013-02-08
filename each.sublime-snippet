@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+.each (index) ->
+  ${2}
+]]></content>
+	<tabTrigger>.ch</tabTrigger>
+	<description>$("selector").each()</description>
+	<scope>source.coffee</scope>
+</snippet>

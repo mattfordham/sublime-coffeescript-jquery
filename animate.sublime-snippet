@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+.animate {${1:}}, ${2:200}, ${3:easeOutQuad}${4:, ->}
+  ${5}
+]]></content>
+	<tabTrigger>.an</tabTrigger>
+	<description>jQuery Animate</description>
+	<scope>source.coffee</scope>
+</snippet>
